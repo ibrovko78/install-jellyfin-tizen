@@ -58,6 +58,12 @@ docker run --rm ghcr.io/georift/install-jellyfin-tizen 192.168.0.10 Jellyfin-Tru
 docker run --rm -v "$(pwd)/author.p12":/certificates/author.p12 -v "$(pwd)/distributor.p12":/certificates/distributor.p12 ghcr.io/georift/install-jellyfin-tizen 192.168.0.10 Jellyfin "" 'CertPassw0rd!' # Third argument empty to use latest tag
 ```
 
+Example i recommended;
+
+```bash
+docker run --rm ghcr.io/georift/install-jellyfin-tizen 172.23.0.210 Jellyfin "https://github.com/jellyfin/jellyfin-web/releases/tag/2025-01-31-1525"
+```
+
 ### Validating Success
 #### Common Errors
 

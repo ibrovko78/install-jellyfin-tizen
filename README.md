@@ -1,3 +1,5 @@
+original link
+https://github.com/Georift/install-jellyfin-tizen
 # Install Jellyfin for Samsung TV
 
 This project makes it easy to install [Jellyfin for Samsung TV](https://github.com/jellyfin/jellyfin-tizen) by automating the environment configuration with Docker.

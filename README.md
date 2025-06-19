@@ -66,6 +66,15 @@ Example i recommended;
 docker run --rm ghcr.io/georift/install-jellyfin-tizen 172.23.0.210 Jellyfin "https://github.com/jellyfin/jellyfin-web/releases/tag/2025-01-31-1525"
 ```
 
+### Search new version in repo
+```
+https://github.com/jeppevinkel/jellyfin-tizen-builds/tags
+```
+- click on tag 
+- Look like Releases/2025-06-18-2328
+- use date format at the end
+
+
 ### Validating Success
 #### Common Errors
 

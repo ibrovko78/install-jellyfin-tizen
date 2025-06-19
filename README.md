@@ -73,7 +73,7 @@ https://github.com/jeppevinkel/jellyfin-tizen-builds/tags
 - click on tag 
 - Look like Releases/2025-06-18-2328
 - use date format at the end
-
+- "https://github.com/jellyfin/jellyfin-web/releases/tag/2025-06-18-2328"
 
 ### Validating Success
 #### Common Errors
